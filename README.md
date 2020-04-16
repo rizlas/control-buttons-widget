@@ -8,6 +8,15 @@ The app needs different permissions to work:
 - Enable accessibility services (allows to show power dialog)
 - Activate administrator (allows to lock the phone screen)
 
+You can find the Apk inside 'apk_signed' folder.
+
+Steps:
+
+1. Install (enable unknown sources)
+2. Open the app
+3. Grant permissions
+4. Add widget
+
 Base project: https://github.com/marcofolio/HelloAppWidget
 <br/>
 <div align="center">
