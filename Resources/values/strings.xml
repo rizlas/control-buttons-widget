@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="accessibility">Enable accessibility service</string>
+  <string name="admin">Enable admin privileges</string>
+  <string name="app_name">Control buttons Widget</string>
+  <string name="mute">Mute phone volume</string>
+  <string name="up">Raise volume</string>
+  <string name="down">Lower volume</string>
+  <string name="lock">Lock phone</string>
+  <string name="power">Show power menù dialog</string>
+  <string name="accessibility_service_description">Show power menù dialog</string>
+  <string name="device_admin"></string>
+  <string name="device_admin_description"></string>
+</resources>

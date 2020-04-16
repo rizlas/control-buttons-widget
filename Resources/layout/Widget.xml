@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#FFFFFF"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="72dip">
+    <ImageView
+        android:id="@+id/btnVolMute"
+        android:src="@drawable/baseline_volume_off_24"
+        android:contentDescription="@string/mute"
+        android:layout_width="48dip"
+        android:layout_height="match_parent" />
+    <ImageView
+        android:id="@+id/btnVolDown"
+        android:src="@drawable/baseline_volume_down_24"
+        android:contentDescription="@string/down"
+        android:layout_width="48dip"
+        android:layout_height="match_parent" />
+    <ImageView
+        android:id="@+id/btnVolUp"
+        android:src="@drawable/baseline_volume_up_24"
+        android:contentDescription="@string/up"
+        android:layout_width="48dip"
+        android:layout_height="match_parent" />
+    <ImageView
+        android:id="@+id/btnLock"
+        android:src="@drawable/baseline_lock_24"
+        android:contentDescription="@string/lock"
+        android:layout_width="48dip"
+        android:layout_height="match_parent" />
+    <ImageView
+        android:id="@+id/btnPower"
+        android:src="@drawable/baseline_power_settings_new_24"
+        android:contentDescription="@string/power"
+        android:layout_width="48dip"
+        android:layout_height="match_parent" />
+</LinearLayout>
